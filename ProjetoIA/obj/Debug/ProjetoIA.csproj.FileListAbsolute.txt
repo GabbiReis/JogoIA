@@ -1,0 +1,7 @@
+C:\Users\gaby3\OneDrive\Documentos\ProjetoIA\ProjetoIA\obj\Debug\ProjetoIA.csproj.AssemblyReference.cache
+C:\Users\gaby3\OneDrive\Documentos\ProjetoIA\ProjetoIA\obj\Debug\ProjetoIA.csproj.CoreCompileInputs.cache
+C:\Users\gaby3\OneDrive\Documentos\ProjetoIA\ProjetoIA\bin\Debug\ProjetoIA.exe.config
+C:\Users\gaby3\OneDrive\Documentos\ProjetoIA\ProjetoIA\bin\Debug\ProjetoIA.exe
+C:\Users\gaby3\OneDrive\Documentos\ProjetoIA\ProjetoIA\bin\Debug\ProjetoIA.pdb
+C:\Users\gaby3\OneDrive\Documentos\ProjetoIA\ProjetoIA\obj\Debug\ProjetoIA.exe
+C:\Users\gaby3\OneDrive\Documentos\ProjetoIA\ProjetoIA\obj\Debug\ProjetoIA.pdb
